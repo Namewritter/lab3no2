@@ -1,0 +1,16 @@
+div{
+    color: brown;
+    font-size: 36px;
+}
+div, p{
+    text-align: center;
+}  
+p{
+    color: orange;
+}  
+a{
+    color: red;
+} 
+body{
+    background-color: lightgray;
+}
